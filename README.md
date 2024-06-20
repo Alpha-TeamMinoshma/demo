@@ -1,3 +1,3 @@
 # Demo repository 
 
-A file for checking 
+A file for checking for changes
