@@ -1,2 +1,3 @@
-# demo
-Learning
+# demo repository 
+
+A file for checking 
